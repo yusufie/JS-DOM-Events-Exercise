@@ -1,0 +1,25 @@
+.btn-container {
+  display: flex;
+  justify-content: center;
+  width: auto;
+  gap: 20px;
+}
+
+.div-container {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.box {
+  border: 1px solid black;
+  flex: 1;
+}
+
+.default-text {
+  margin-top: 20px;
+}
+
+.alert-text {
+  margin-top: 20px;
+}
